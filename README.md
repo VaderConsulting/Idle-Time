@@ -1,6 +1,6 @@
 # Idle Time
 
-VB6 working copy of `Idle Time` from Dave Robinson's OneDrive Historical Dev `VB` folder. Project title: IdleTime. `VersionCompanyName`: Freelance.
+VB6 Idle Time utility (`IdleTime`, VersionCompanyName Freelance) that uses `GetLastInputInfo` on a timer to show how many seconds since the last keyboard/mouse input. Open `IdleTime.vbp` in the VB6 IDE.
 
 **Source last updated:** 2026-08-27 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
